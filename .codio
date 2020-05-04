@@ -7,7 +7,7 @@
 
 // Preview button configuration
   "preview": {
-        "Project Index (static)": "https://{{domain}}/{{index}}",
-        "Current File (static)": "https://{{domain}}/{{filepath}}"
+        "Preview Website (static)": "https://{{domain}}/{{index}}",
+        "Preview Current File (static)": "https://{{domain}}/{{filepath}}"
   }
 }
