@@ -13,7 +13,7 @@ Use the Preview button (with the "play" icon) to see a preview of the website.
 Use the drop-down arrow to the right of the "Preview Website" option to change the button to view the current file. You can also configure your preview button to open the preview as a new tab inside Codio, or as a new tab in your browser.
 
 ### Running Node
-Use the Run button (with the "rocketship" icon) to start the current NodeJS file.
+Use the Run button (with the "rocketship" icon) to start the current NodeJS file. To stop node, press ctrl + c in the terminal.
 
 ### Debug your Code
 Use the "Debug Current File" on the far right of the top menu bar to launch the debugger targeting the JavaScript file your cursor is in.
