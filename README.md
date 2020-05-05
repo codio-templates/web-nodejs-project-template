@@ -9,7 +9,7 @@ You can right-click in the file tree to rename this file or delete it and start 
 ## View site or Current file
 Use the Preview button (with the "play" icon) to see a preview of the website.
 
-![PreviewMenuWeb](PreviewMenuWeb.png)
+![](https://global.codio.com/platform/readme.resources/PreviewMenuWeb.png)
 
 Use the drop-down arrow to the right of the "Preview Website" option to change the button to view the current file. You can also configure your preview button to open the preview as a new tab inside Codio, or as a new tab in your browser.
 
