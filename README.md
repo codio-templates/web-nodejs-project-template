@@ -16,7 +16,9 @@ Use the drop-down arrow to the right of the "Preview Website" option to change t
 Use the Run button (with the "rocketship" icon) to start the current NodeJS file. To stop node, press ctrl + c in the terminal.
 
 ### Debug your Code
-Use the "Debug Current File" on the far right of the top menu bar to launch the debugger targeting the JavaScript file your cursor is in.
+Use the "Debug Current NodeJS File" on the far right of the top menu bar to launch the debugger targeting the NodeJS file your cursor is in.
+
+Use your browser's built in Developer Tools to debug other web projects such as HTML/CSS.
 
 ### Reconfigure your Panels for easier development
 Use the **View > Panels** menu on the top tool bar to segment your screen.
